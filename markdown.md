@@ -1,14 +1,14 @@
-#Markdown (.md)
+#Markdown (.md)#
 
-##O que é Markdown
+##O que é Markdown##
 
 Tipo de formatação de texto que substitui a escrita em HTML puro dentro de um projeto, geralmente é usada em textos grandes.
 
 Exemplo: arquivo README no github, que geralmente é .md ou .markdown
 
-##Sintaxe
+##Sintaxe##
 
-###Títulos
+###Títulos###
 
 # Título 1
 ## Título 2
@@ -22,18 +22,18 @@ ou em HTML:
 <h2> Título 2 </h2>
 <h3> Título 3 </h3>
 
-###Ênfases
+###Ênfases###
 
-####Negrito
+####Negrito####
 __texto__ ou **texto**
 
-####Itálico
+####Itálico####
 *texto* ou _texto_
 
-####Tachado
+####Tachado####
 ~~texto~~
 
-###Listas ordenadas
+###Listas ordenadas###
 
 texto um
 texto dois
@@ -41,7 +41,7 @@ texto três
 
 a ordenação é feita automaticamente com  + . + espaço
 
-###Listas não ordenadas
+###Listas não ordenadas###
 
 aaa
 bbb
@@ -49,17 +49,17 @@ ccc
 
 + espaço 
 
-###Links
+###Links###
 [ ] + ( )
 
 Ex: [Google](https://google.com)
 
-###Imagens
+###Imagens###
 ! + [ ] + ( )
 ![Imagem](https://lh3.googleusercontent.com/a/ACg8ocIXFcdWZRVHFP2yw_fMMqirrLImrG-UCWolBmXe-lhb1yM3GacQ=s96-c-rg-br100)
 
 
-###Quotes
+###Quotes###
 > + texto
 
 Exemplo:
@@ -67,7 +67,7 @@ Exemplo:
 
 > Mais vale um pássaro na mão do que dois voando.
 
-###Task Lists 
+###Task Lists###
 - + [ ] 
 
 Exemplo
@@ -76,7 +76,7 @@ Exemplo
 [ ] Item 3
 [ ] Item 4
 
-###Códigos
+###Códigos###
 três crases antes e depois do trecho de código.
 
 Exemplo:
@@ -84,7 +84,7 @@ Exemplo:
 console.log(“Hello, World”);
 ```
 
-###Tabelas
+###Tabelas###
 | (pipe)
 
 Exemplo:
