@@ -88,7 +88,8 @@ console.log(“Hello, World”);
 | (pipe)
 
 Exemplo:
-| Nome | Email |
-|.......|......|
-| Maria | email@email|
+
+|Nome|Email|
+|....|.....|
+|Maria|email@email|
 
