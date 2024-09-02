@@ -89,7 +89,7 @@ console.log(“Hello, World”);
 
 Exemplo:
 
-|Nome|Email|
-|....|.....|
-|Maria|email@email|
+| Nome| Email|
+| ....| .....|
+| Maria| email@email|
 
